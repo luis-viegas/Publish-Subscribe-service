@@ -7,6 +7,7 @@ Developed by:
 - Mariana Monteiro (up202003480@fe.up.pt)
 - Diogo Maia (up201904974@fe.up.pt)
 
+More detailed info [in the report.](./doc/report.pdf)
 
 # Technologies
 
