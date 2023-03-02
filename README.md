@@ -1,13 +1,11 @@
-# SDLE First Assignment
+# Publish-Subscribe service
 
-SDLE First Assignment of group T06G13
+Developed by:
 
-Group members:
-
-1. Miguel Lopes (up201704590@fe.up.pt)
-2. Luís Viegas (up201904979@fe.up.pt)
-3. Mariana Monteiro (up202003480@fe.up.pt)
-4. Diogo Maia (up201904974@fe.up.pt)
+- Miguel Lopes (up201704590@fe.up.pt)
+- Luís Viegas (up201904979@fe.up.pt)
+- Mariana Monteiro (up202003480@fe.up.pt)
+- Diogo Maia (up201904974@fe.up.pt)
 
 
 # Technologies
